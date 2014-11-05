@@ -1,0 +1,2 @@
+[nginx_error_rate]
+env.access_log /var/log/nginx/access.log
